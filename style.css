@@ -1,0 +1,22 @@
+h1 {
+    font-family: "Courier New", "Garamond", "Brush Script MT";
+    font-size: 80px;
+    text-align: center;
+}
+
+p {
+    font-family: "Courier New", "Garamond", "Brush Script MT";
+    font-size: 30px;
+}
+
+ul li {
+    font-family: "Courier New", "Garamond", "Brush Script MT";
+    font-size: 30px;
+    color: chocolate;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a {
+    color: chocolate;
+}

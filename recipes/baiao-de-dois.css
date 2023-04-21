@@ -1,0 +1,39 @@
+h1 {
+    font-family: "Courier New", "Garamond", "Brush Script MT";
+    font-size: 80px;
+    background-color: chocolate;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Courier New", "Garamond", "Brush Script MT";
+    font-size: 40px;
+    background-color: chocolate;
+    color: white;
+}
+
+img {
+    height: auto;
+    width: 800px;
+    display: block;
+    margin: auto;
+}
+
+p {
+    font-family: "Courier New", "Garamond", "Brush Script MT";
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+li {
+    font-family: "Courier New", "Garamond", "Brush Script MT";
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    line-height: 1.5;
+}
+
+ol {
+    margin: 20px;
+}
